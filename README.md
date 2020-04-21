@@ -8,3 +8,4 @@ Major changes so far:
 - I mapped directional arrows to ijkl on L2
 - I mapped Oryx to the printed apostrophe key for Live Training (might switch that once I'm more comfortable typing on this board)
 - I mapped quotation marks to L1 on the apostrophe key just above right shift; still thinking about this one as it's a bit awkward, but I don't type quotes that often
+- I changed left arrow key on the right-hand side of the keyboard to the pipe (` %>%`) for easier `dplyr` manipulability
