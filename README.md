@@ -11,3 +11,4 @@ Major changes so far:
 - I changed left arrow key on the right-hand side of the keyboard to the pipe (` %>%`) for easier `dplyr` manipulability
 - I moved delete to the right thumb cluster so that it is opposite backspace. Now tab is in the "usual" spot
 - I switched the "usual" caps lock key to escape
+- I turned auto shift on!
