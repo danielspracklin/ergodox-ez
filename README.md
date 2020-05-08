@@ -14,3 +14,4 @@ Major changes so far:
 - I turned auto shift on!
 - I mapped some of the 1.5u keys to stuff I use frequently in R (`+`, `=`)
 - I added hyphen and underscore to the right thumb cluster for easier snake_case
+- I added a third layer for Colemak
