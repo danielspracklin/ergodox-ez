@@ -13,3 +13,4 @@ Major changes so far:
 - I switched the "usual" caps lock key to escape
 - I turned auto shift on!
 - I mapped some of the 1.5u keys to stuff I use frequently in R (`+`, `=`)
+- I added hyphen and underscore t othe righ thumb cluster for easier snake_case
