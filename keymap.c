@@ -7,7 +7,7 @@ void matrix_scan_user(void) {
     leading = false;
     leader_end();
 
-    SEQ_ONE_KEY(KC_G, KC_B) {
+    SEQ_TWO_KEYS(KC_G, KC_B) {
       // When I press KC_LEAD and then G and B, this sends "group_by"
       SEND_STRING("group_by");
     }
