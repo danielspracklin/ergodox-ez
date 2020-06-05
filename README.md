@@ -5,13 +5,10 @@ This is the layout I've chosen for my ErgoDoz EZ Glow.
 
 Major changes so far:
 
-- I mapped directional arrows to ijkl on L2
-- I mapped Oryx to the printed apostrophe key for Live Training (might switch that once I'm more comfortable typing on this board)
-- I mapped quotation marks to L1 on the apostrophe key just above right shift; still thinking about this one as it's a bit awkward, but I don't type quotes that often
-- I changed the `meh` tap to the pipe (` %>%`) for easier `dplyr` manipulability
-- I moved delete to the right thumb cluster so that it is opposite backspace. Now tab is in the "usual" spot
-- I switched the "usual" caps lock key to escape
-- I turned auto shift on!
-- I mapped some of the 1.5u keys to stuff I use frequently in R (`+`, `=`)
-- I added hyphen and underscore to the right thumb cluster for easier snake_case
-- I added a third layer for Colemak
+- I switched to Colemak in May 2020 and have mapped L1 to Colemak accordingly. I've kept
+L0 on QWERTY for now, but may make the switch later on.
+- I moved escape to QWERTY's caps lock (and Colemak's backspace).
+- Thumb clusters handle (from left to right) space, backspace, delete and enter. Holding space and enter give control and alt, respectively.
+- I enabled auto-shift; still need to tweak the trigger length.
+- I've really come to appreciate space-cadet shifts, which now have me desperately mashing shift when on a non-QMK board
+- I added an extend layer inspired by [DreymaR's layout](https://forum.colemak.com/topic/2014-extend-extra-extreme/) but with reordered shift, control and alt. Easier on my brain!
